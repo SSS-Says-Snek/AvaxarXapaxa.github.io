@@ -2,7 +2,7 @@
 
 ## Projects
 - [Pygame Community Bot](https://github.com/AvaxarXapaxa/PygameCommunityBot), a discord bot for the [Pygame Community discord server](https://discord.gg/kD2Qq9tbKm)
-- [NeaxKit](https://github.com/AvaxarXapaxa/NeaxKit), a C++ library of helper functions/full implementations of stuff that I usually mess around. Helps a lot in my future projects.
+- [NeaxKit](https://github.com/AvaxarXapaxa/NeaxKit), a C++ library of helper functions/full implementations of stuff that I usually mess around. Helps a lot for my future projects.
 
 
 ## Other
