@@ -2,7 +2,8 @@
 
 ## Projects
 - [Pygame Community Bot](https://github.com/AvaxarXapaxa/PygameCommunityBot), a discord bot for the [Pygame Community discord server](https://discord.gg/kD2Qq9tbKm)
-- [NSDL](https://github.com/AvaxarXapaxa/nsdl), a minimal and simple SDL C++ header-only wrapper library that also works with Emscripten.
+- [NSDL](https://github.com/AvaxarXapaxa/nsdl), a minimal and simple SDL C++ header-only wrapper library that also works with Emscripten. (Abandoned)
+- [Kithare](https://github.com/Kithare/Kithare), a Python-C like programming language. (WIP)
 
 
 ## Other
